@@ -8,10 +8,10 @@ This package includes tools to help you write clippings, unix scripts, and even 
 Installation
 ===============================
 
-$ cd Library/Application\ Support/BBEdit/
-$ mkdir Packages # if it doesn't already exists
-$ cd Packages
-$ git clone https://github.com/bbedit/package_dev.bbpackage.git
+    $ cd Library/Application\ Support/BBEdit/
+    $ mkdir Packages # if it doesn't already exists
+    $ cd Packages
+    $ git clone https://github.com/bbedit/package_dev.bbpackage.git
 
 
 Contributing
